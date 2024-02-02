@@ -1,4 +1,4 @@
-# Villa Isometric (Voxel)
+# Villa Isometric 3D Model (Voxel)
 
 This is my second blender project with low poly models. The techniques used for this project were borrowed from Benji's Blender Club.
 
